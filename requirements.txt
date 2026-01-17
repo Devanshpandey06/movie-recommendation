@@ -1,5 +1,4 @@
-streamlit
-SpeechRecognition
-gTTS
-pyttsx3
-PyAudio
+streamlit>=1.28.0
+SpeechRecognition>=3.10.0
+gTTS>=2.3.0
+pyttsx3>=2.90
